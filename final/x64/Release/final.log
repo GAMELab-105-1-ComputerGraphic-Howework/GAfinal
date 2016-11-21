@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (final.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  myCV.cpp
+  LINK : 指定了 /LTCG，但未要求程式碼產生，請從連結命令列移除 /LTCG 以提升連結器效能
+  final.vcxproj -> C:\Users\skyqq\Documents\Visual Studio 2015\Projects\GAfinal\x64\Release\GAfinal.exe
